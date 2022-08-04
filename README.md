@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hey This is Kunal. I am a Student
 <!--
 **kunaltilaganji/Kunaltilaganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
