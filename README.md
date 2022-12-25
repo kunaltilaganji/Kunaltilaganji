@@ -71,21 +71,20 @@ Here are some ideas to get you started:
     </a> 
      
 </p>
-<p align="left">
     <a href="https://pandas.pydata.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png" alt="pandas" width="60" height="60"/> 
     </a>
     <a href="https://numpy.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="60" height="60"/> 
     </a>
     <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1920px-PyTorch_logo_black.svg.png" alt="pytorch" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1920px-PyTorch_logo_black.svg.png" alt="pytorch" width="60" height="60"/> 
     </a> 
     <a href="https://tensorflow.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensorflow" width="60" height="60"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" alt="reactjs" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" alt="reactjs" width="60" height="60"/> 
     </a>
 </p>
 
@@ -102,6 +101,6 @@ Here are some ideas to get you started:
 <br>
 <p align="left">
 <a href="https://codeforces.com/profile/kunaltilaganji" target="blank"><img align="center" src="https://codeforces.org/s/58725/images/codeforces-logo-with-telegram.png" alt="kunaltilaganji" height="30" width="100" /></a>
-<a href="https://www.hackerrank.com/tilganjikunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tilganjikunal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tilganjikunal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="tilganjikunal" height="30" width="40" /></a>
 
 </p>
