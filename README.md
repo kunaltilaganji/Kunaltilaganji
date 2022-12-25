@@ -50,12 +50,6 @@ Here are some ideas to get you started:
 <img align="left" alt="C" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" style="padding-right:10px;" />
 
 <img align="left" alt="C++" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"/>
-
-<img align="left" alt="Java" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" />
-                     
-<img align="left" alt="Flutter" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-<img align="left" alt="Flutter" width="26px"  src="https://www.pngfind.com/pngs/m/144-1441576_dart-logo-png-transparent-dart-lang-png-download.png"/>
           
 <img align="left" alt="Node-JS" width="26px"  src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" />
 
@@ -66,22 +60,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Bash" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" />
 
-<img align="left" alt="NPM" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg" />
-
-
 <br><br>
 
 <p align="left"> 
-    <a href="https://www.cplusplus.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
     <a href="https://www.kali.org/docs/ target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        <img src="https://guide-images.cdn.ifixit.com/igi/TiufGNbhhSwJPAoh.standard" alt="linux" width="40" height="40"/> 
     </a> 
     <a href="https://www.tableau.com/learn/get-started target="_blank"> 
         <img src="https://help.tableau.com/tableau_logo.png" alt="tableau" width="120" height="40"/> 
@@ -90,19 +73,19 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/> 
     </a>
     <a href="https://numpy.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> 
     </a>
     <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/pytorch.svg" alt="pytorch" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1920px-PyTorch_logo_black.svg.png" alt="pytorch" width="40" height="40"/> 
     </a> 
     <a href="https://tensorflow.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="reactjs" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" alt="reactjs" width="40" height="40"/> 
     </a>
 </p>
 
