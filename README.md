@@ -72,17 +72,17 @@ Here are some ideas to get you started:
      
 </p>
     <a href="https://pandas.pydata.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png" alt="pandas" width="60" height="60"/> 
+        <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" width="60" height="60"/> 
     </a>
-    <a href="https://numpy.org/" target="_blank"> 
+<!--     <a href="https://numpy.org/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" width="60" height="60"/> 
-    </a>
-    <a href="https://pytorch.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1920px-PyTorch_logo_black.svg.png" alt="pytorch" width="60" height="60"/> 
+    </a> -->
+<!--     <a href="https://pytorch.org/" target="_blank"> 
+        <img src="https://miro.medium.com/max/720/1*JupRAYk4Q2xyEBWVV4SNyg.webp" alt="pytorch" width="60" height="60"/> 
     </a> 
     <a href="https://tensorflow.org/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensorflow" width="60" height="60"/> 
-    </a> 
+    </a>  -->
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" alt="reactjs" width="60" height="60"/> 
     </a>
@@ -93,9 +93,9 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
-<a href="https://instagram.com/kunaltilaganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
-<a href="https://twitter.com/kunaltilaganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
-<a href="https://linkedin.com/in/kunaltilaganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaltilaganji" height="30" width="30" /> </a> &nbsp;
+<a href="https://instagram.com/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
+<a href="https://twitter.com/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
+<a href="https://linkedin.com/in/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="kunaltilaganji" height="30" width="30" /> </a> &nbsp;
 
 </p>
 <br>
