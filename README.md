@@ -93,14 +93,14 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
-<a href="https://instagram.com/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
-<a href="https://twitter.com/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
-<a href="https://linkedin.com/in/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="kunaltilaganji" height="30" width="30" /> </a> &nbsp;
+<a href="https://instagram.com/kunaltilaganji" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
+<a href="https://twitter.com/kunaltilaganji" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
+<a href="https://linkedin.com/in/kunaltilaganji" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="kunaltilaganji" height="30" width="30" /> </a> &nbsp;
 
 </p>
 <br>
 <p align="left">
-<a href="https://codeforces.com/profile/kunaltilaganji" target="blank"><img align="center" src="https://codeforces.org/s/58725/images/codeforces-logo-with-telegram.png" alt="kunaltilaganji" height="30" width="100" /></a>
-<a href="https://www.hackerrank.com/tilganjikunal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="tilganjikunal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="tilganjikunal" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kunaltilaganji" target="_blank"><img align="center" src="https://codeforces.org/s/58725/images/codeforces-logo-with-telegram.png" alt="kunaltilaganji" height="30" width="100" /></a>
+<a href="https://www.hackerrank.com/tilganjikunal" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="tilganjikunal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kunaltilaganji" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="tilganjikunal" height="30" width="40" /></a>
 </p>
