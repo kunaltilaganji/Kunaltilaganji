@@ -102,5 +102,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codeforces.com/profile/kunaltilaganji" target="blank"><img align="center" src="https://codeforces.org/s/58725/images/codeforces-logo-with-telegram.png" alt="kunaltilaganji" height="30" width="100" /></a>
 <a href="https://www.hackerrank.com/tilganjikunal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="tilganjikunal" height="30" width="40" /></a>
-
+<a href="https://www.leetcode.com/kunaltilaganji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="tilganjikunal" height="30" width="40" /></a>
 </p>
