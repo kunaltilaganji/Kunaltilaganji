@@ -23,13 +23,24 @@ Here are some ideas to get you started:
 - 🧠 Cybersecurity Enthusiastic
 - 🤔 Looking for Internships.
 
-<!--  STATUS CARD -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaltilaganji)](https://github.com/anuraghazra/github-readme-stats)
+
+### :zap: =GitHub Stats
+<img src="https://github.com/yashlad27/yashlad27/blob/main/images/Line.gif">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltilaganji&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunaltilaganji&theme=radical" /><br><br>
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=kunaltilaganji&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=!&layout=compact"/><br><br>
+  </a>
+</p>
+<!--  STATUS CARD -->
+<!-- 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaltilaganji)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- STATUS CARD THEME -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaltilaganji&show_icons=true&theme=nightowl)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaltilaganji&show_icons=true&theme=nightowl)  -->
 
 <!-- LANGUAGE CARD   (COMPACT)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaltilaganji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
