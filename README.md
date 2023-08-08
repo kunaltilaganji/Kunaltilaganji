@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://instagram.com/kunaltilaganji" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
 <a href="https://twitter.com/kunaltilaganji" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="kunaltilaganji" height="30" width="30" />  </a> &nbsp;
-<a href="https://linkedin.com/in/kunaltilaganji" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="kunaltilaganji" height="30" width="30" /> </a> &nbsp;
+<a href="https://www.linkedin.com/in/kunal-tilaganji/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="kunaltilaganji" height="30" width="30" /> </a> &nbsp;
 
 </p>
 <br>
