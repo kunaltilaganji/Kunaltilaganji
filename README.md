@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Tilaganji</h1>
-<h3 align="center">A College Student working on Machine Learning</h3>
+<h3 align="center">A Fresh Grad working on Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltilaganji&label=Profile%20views&color=0e75b6&style=flat" alt="kunaltilaganji" /> </p>
 <!--  
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kunal_tilaganji" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_tilaganji?logo=twitter&style=for-the-badge" alt="kunal_tilaganji" /></a> </p>
 
-- 🔭 I’m currently interning at **A*STAR, Singapore**
+- 🔭 I’m currently working on building products using LLMs like Mistral 7B and Claude. Previously I interned at **A*STAR, Singapore in the Institute For Infocomm Research**
 
-- 👯 I’m looking to collaborate on **Machine Learing Projects**
+- 👯 I’m looking to collaborate on **Computer Vision/Generation AI Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
