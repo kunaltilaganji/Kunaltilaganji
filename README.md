@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/kunal_tilaganji" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_tilaganji?logo=twitter&style=for-the-badge" alt="kunal_tilaganji" /></a> </p>
 
-- 🔭 I’m currently working on building products using LLMs like Mistral 7B and Claude. Previously I interned at **A*STAR, Singapore in the Institute For Infocomm Research**
+- 🔭 I’m currently working on Leverage Multimodal Large Language Models (MLLMs) and CLIP-based nearest neighbors for efficient Vocabulary-Free Fine-Grained Visual Recognition (VF-FGVR) at **Indian Institute of Technology Hyderabad** under **Dr. Vineeth Balasubramanian**.
+-   Previously I interned at **A*STAR, Singapore in the Institute For Infocomm Research**
 
 - 👯 I’m looking to collaborate on **Computer Vision/Generation AI Projects**
 
